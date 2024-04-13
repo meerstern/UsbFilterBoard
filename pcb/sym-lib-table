@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name emi_filter_ll)(type Legacy)(uri ${KIPRJMOD}/emi_filter_ll.lib)(options "")(descr ""))
+)

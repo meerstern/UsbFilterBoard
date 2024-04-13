@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name USBA)(type KiCad)(uri ${KIPRJMOD}/USBA.pretty)(options "")(descr ""))
+  (lib (name USBHOST)(type KiCad)(uri ${KIPRJMOD}/USBHOST.pretty)(options "")(descr ""))
+  (lib (name CMF)(type KiCad)(uri ${KIPRJMOD}/CMF.pretty)(options "")(descr ""))
+)

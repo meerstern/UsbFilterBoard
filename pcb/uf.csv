@@ -1,0 +1,14 @@
+"ID";"参照記号";"パッケージ";"数";"名称";"Supplier and ref";
+1;"REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1,REF1";"MountingHole_2.5mm";45;"MountingHole_2.5mm";;;
+2;"FB2,FB1";"L_0805_2012Metric";2;"330ohm@100MHz";;;
+3;"C3";"C_0603_1608Metric";1;"C";;;
+4;"R1";"R_0603_1608Metric";1;"R";;;
+5;"J14";"USBA";1;"USB_Device";;;
+6;"J13,J12,J11,J10,J9,J8,J7,J6,J5,J4,J3,J2";"PinHeader_1x02_P2.54mm_Vertical";12;"Conn_01x02";;;
+7;"J1";"USBHOST";1;"USB_Host";;;
+8;"FL5";"L_CommonModeChoke_Coilcraft_0805USB";1;"920ohm@100MHz";;;
+9;"FL4";"L_CommonModeChoke_Coilcraft_0805USB";1;"490ohm@100MHz";;;
+10;"FL3";"L_CommonModeChoke_Coilcraft_0805USB";1;"260ohm@100MHz";;;
+11;"FL2";"L_CommonModeChoke_Coilcraft_0805USB";1;"120ohm@100MHz";;;
+12;"FL1";"L_CommonModeChoke_Coilcraft_0805USB";1;"67ohm@100MHz";;;
+13;"C2,C1";"C_0603_1608Metric";2;"0.1u";;;
