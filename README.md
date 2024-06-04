@@ -55,6 +55,20 @@ USB Filter Board
 | FL5 |	[DLW21SN921SK2L][5] | 920Ω@100MHZ | 0.95Ω | 〇 |× |	
 | FL6 |	[DLW21HN900HQ2L][6] | 90Ω@100MHZ | 0.59Ω | 〇 | 〇 |
 
+## 外観
+  * サイズ約32mm x約32mm(子基板分離前コネクタ含めず) 
+  * サイズ約54mm x約32mm(子基板分離前コネクタ含め) 
+  * サイズ約32mm x約19mm(子基板分離後コネクタ含めず) 
+  * サイズ約54mm x約19mm(子基板分離後コネクタ含め)
+    
+<img src="/img/img1.JPG" width="360">
+<img src="/img/img2.JPG" width="300">
+<img src="/img/img4.JPG" width="300">
+
+## 使用例
+<img src="/img/img3.JPG" width="300">
+
+
 [0]: https://www.murata.com/ja-jp/products/productdetail?partno=BLM21PG331SN1D
 [1]: https://www.murata.com/ja-jp/products/productdetail?partno=DLW21SN670SQ2%23
 [2]: https://www.murata.com/ja-jp/products/productdetail?partno=DLW21SN121SQ2%23
